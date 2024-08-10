@@ -3,7 +3,7 @@
 - Estudante da área de dados 🎲
 - Atualmente focando no conhecimento e desenvolvimento de projetos de ciência de dados.
 
-![Gabriel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabrielgvss&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Gabriel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabrielgvss&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ## Tecnologias que utilizo no dia-a-dia:
 <div style="display: inline_block"><br>
